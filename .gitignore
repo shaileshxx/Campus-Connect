@@ -1,0 +1,7 @@
+node_modules/
+.env
+uploads/notes/*
+!uploads/notes/.gitkeep
+uploads/lostfound/*
+!uploads/lostfound/.gitkeep
+.DS_Store
